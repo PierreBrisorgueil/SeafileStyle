@@ -1,0 +1,79 @@
+#header {
+    background: #34495e;
+}
+
+#header-inner {
+    width: 95%;
+}
+
+#main, #footer {
+    width: 95%;
+}
+
+h3 {
+    color: #f7941d;
+}
+
+a {
+    color: #2c3e50;
+}
+
+.op-icon.sf2-x, .op-icon.sf2-x:hover {
+    color: #2c3e50;
+}
+
+#right-panel {
+    width: 80%;
+}
+
+#left-panel {
+    width: 18%;
+}
+
+#right-panel .hd, .tabnav, .repo-file-list-topbar, .commit-list-topbar, .file-audit-list-topbar, #dir-view .repo-op, .wiki-top {
+    background: none;
+    color: #f7941d;
+    border-bottom: #d35400 1px solid;
+    border-radius: 0 !important;
+}
+
+.new-narrow-panel .hd {
+    background: #34495e;
+    border-bottom: 1px solid #2c3e50;
+}
+
+.con label, .con a, .con .submit {
+    text-align: center;
+    width: 100%;
+    display: block;
+}
+
+#account .manage {
+    position: fixed;
+    left: auto;
+    top: 0;
+    right: 0;
+}
+
+#notifications .sf2-icon-bell {
+   color: #fff;
+}
+
+.side-tabnav h3.hd, .side-tabnav .hd h3 {
+    border-bottom: 1px solid #d35400;
+    height: 39px;
+    width: 100%;
+    padding: 4px 10px;
+}
+
+.side-tabnav-tabs .tab-cur a, .side-tabnav-tabs .tab-cur a:hover {
+    background-color: #34495e;
+}
+
+#footer .item {
+    text-align: center;
+}
+
+#footer .other-info {
+    text-align: center;
+}
