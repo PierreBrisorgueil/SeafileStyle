@@ -1,4 +1,4 @@
-## Style for Seahub
+## Weaos Style for Seahub
 
 ## Deployment
 
