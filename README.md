@@ -22,10 +22,9 @@
     LOGO_HEIGHT = 32
     BRANDING_CSS = 'custom/SeahubStyleWeaos/style/custom.css'
 
-## Screens
+## Screen
 
-![01](https://github.com/weareopensource/SeahubStyleWeaos/blob/master/screens/01.png)
-![02](https://github.com/weareopensource/SeahubStyleWeaos/blob/master/screens/02.png)
+![screen](https://raw.githubusercontent.com/weareopensource/SeafileStyle/master/screen.png)
 
 ## Author
 * Pierre Brisorgueil
